@@ -2,33 +2,26 @@
 
 # Hi there 👋
 
-### I'm Yetunde Badru
-
-### Data Scientist | ML Engineer
-
-I'm passionate about building data-driven and machine learning solutions that turn complex problems into practical, deployable products.
-
-I work across predictive modelling, machine learning engineering, analytics, cloud deployment, and AI product development.
+### I'm Yetunde Badru, a Data Scientist | ML Engineer passionate about building data-driven, machine learning solutions that turn complex problems into practical, deployable products. I work across predictive modelling, machine learning engineering, analytics, cloud deployment, and AI product development.
 
 </div>
 
----
-
 ## I'm Working On
 
-- Machine Learning & Predictive Modelling       - NLP & LLM Applications
-- MLOps & Model Deployment                      - Data Science & Analytics
-- Data Engineering & SQL                        - AI Products
-
----
+- Machine Learning & Predictive Modelling
+- NLP & LLM Applications
+- MLOps 
+- Data Science & Analytics
+- Data Engineering & SQL
+- AI Products
 
 ## My Tech Stack
 
-**Languages:** Python, SQL                            **Visualization:** Power BI, Tableau
-**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch          **Deployment & MLOps:** Docker, AWS, Flask
+**Languages:** Python, SQL                            
+**Visualization:** Power BI, Tableau
+**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch          
+**Deployment & MLOps:** Docker, AWS, Flask
 **Version Control:** Git, GitHub, GitLab
-
----
 
 ## ✍️ Writing & Research
 
@@ -36,13 +29,18 @@ I enjoy breaking down complex technical ideas into practical insights.
 
 I write about:
 
-- AI & Machine Learning                         - MLOps
-- Data Science                                  - Building AI Products
-- Research Paper Summaries                      - Lessons from Real-World Projects
+- AI & Machine Learning
+- MLOps
+- Data Science
+- Building AI Products
+- Research Paper Summaries
+- Lessons from Real-World Projects
 
 📖 [Medium](https://medium.com/@yetundebarakbadru) · [Substack](https://substack.com/@yetundebadru)
 
----
+## 🌱 Open Source
+
+I'm interested in contributing to open-source projects, particularly in AI, machine learning, data science, and developer tooling.
 
 ## 📫 Connect With Me
 
