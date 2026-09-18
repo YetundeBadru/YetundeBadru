@@ -16,25 +16,16 @@ I work across predictive modelling, machine learning engineering, analytics, clo
 
 ## I'm Working On
 
-- Machine Learning & Predictive Modelling
-- Data Science & Analytics
-- AI Products
-- NLP & LLM Applications
-- MLOps & Model Deployment
-- Data Engineering & SQL
+- Machine Learning & Predictive Modelling       - NLP & LLM Applications
+- MLOps & Model Deployment                      - Data Science & Analytics
+- Data Engineering & SQL                        - AI Products
 
 ---
 
 ## My Tech Stack
 
-**Languages:** Python, SQL
-
-**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch
-
-**Visualization:** Power BI, Tableau
-
-**Deployment & MLOps:** Docker, AWS, Flask
-
+**Languages:** Python, SQL                            **Visualization:** Power BI, Tableau
+**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch          **Deployment & MLOps:** Docker, AWS, Flask
 **Version Control:** Git, GitHub, GitLab
 
 ---
@@ -45,12 +36,9 @@ I enjoy breaking down complex technical ideas into practical insights.
 
 I write about:
 
-- AI & Machine Learning
-- Data Science
-- Research Paper Summaries
-- MLOps
-- Building AI Products
-- Lessons from Real-World Projects
+- AI & Machine Learning                         - MLOps
+- Data Science                                  - Building AI Products
+- Research Paper Summaries                      - Lessons from Real-World Projects
 
 📖 [Medium](https://medium.com/@yetundebarakbadru) · [Substack](https://substack.com/@yetundebadru)
 
