@@ -2,18 +2,17 @@
 
 # Hi there 👋
 
-### I'm Yetunde Badru, a Data Scientist | ML Engineer passionate about building data-driven, machine learning solutions that turn complex problems into practical, deployable products. I work across predictive modelling, machine learning engineering, analytics, cloud deployment, and AI product development.
+I'm Yetunde Badru, a **Data Scientist | ML Engineer** passionate about building data-driven, machine learning solutions that turn complex problems into practical, deployable products. I work across predictive modelling, machine learning engineering, analytics, cloud deployment, and AI product development.
 
 </div>
 
 ## I'm Working On
 
-- Machine Learning & Predictive Modelling
-- NLP & LLM Applications
-- MLOps 
-- Data Science & Analytics
-- Data Engineering & SQL
-- AI Products
+<p>
+• Machine Learning & Predictive Modelling &nbsp;&nbsp; • NLP & LLM Applications<br>
+• MLOps &nbsp;&nbsp; • Data Science & Analytics<br>
+• Data Engineering & SQL &nbsp;&nbsp; • AI Products
+</p>
 
 ## My Tech Stack
 
@@ -29,12 +28,11 @@ I enjoy breaking down complex technical ideas into practical insights.
 
 I write about:
 
-- AI & Machine Learning
-- MLOps
-- Data Science
-- Building AI Products
-- Research Paper Summaries
-- Lessons from Real-World Projects
+<p>
+• AI & Machine Learning &nbsp;&nbsp; • MLOps<br>
+• Data Science &nbsp;&nbsp; • Building AI Products<br>
+• Research Paper Summaries &nbsp;&nbsp; • Lessons from Real-World Projects
+</p>
 
 📖 [Medium](https://medium.com/@yetundebarakbadru) · [Substack](https://substack.com/@yetundebadru)
 
