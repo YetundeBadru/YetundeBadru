@@ -5,7 +5,9 @@ I'm Yetunde Badru, a **Data Scientist | ML Engineer** passionate about building 
 
 </div>
 
-## My Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 **Languages:** Python, SQL
 
@@ -16,6 +18,8 @@ I'm Yetunde Badru, a **Data Scientist | ML Engineer** passionate about building 
 **Deployment & MLOps:** Docker, AWS, Flask
 
 **Version Control:** Git, GitHub, GitLab
+
+---
 
 ## ✍️ Writing & Research
 
@@ -30,9 +34,13 @@ I write about:
 
 📖 [Medium](https://medium.com/@yetundebarakbadru) · [Substack](https://substack.com/@yetundebadru)
 
+---
+
 ## 🌱 Open Source
 
 I'm interested in contributing to open-source projects, particularly in AI, machine learning, data science, and developer tooling.
+
+---
 
 ## 📫 Connect With Me
 
